@@ -1,0 +1,6 @@
+# ninja log v5
+0	170	6915437236738690	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+8	192	6915437237005356	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
+193	617	6915437240947254	asincrona3.exe	fab403e5663a80d6
+4	164	6915437641397144	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
+165	360	6915437643181971	asincrona3.exe	fab403e5663a80d6
