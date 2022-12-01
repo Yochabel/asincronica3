@@ -7,10 +7,6 @@
 				{
 					"build" : ".",
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.23"
-					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
@@ -49,12 +45,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Yochi/CLionProjects/asincrona3/cmake-build-debug",
-		"source" : "C:/Users/Yochi/CLionProjects/asincrona3"
+		"build" : "C:/Users/52332/CLionProjects/asincronica3/cmake-build-debug",
+		"source" : "C:/Users/52332/CLionProjects/asincronica3"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 3
 	}
 }
