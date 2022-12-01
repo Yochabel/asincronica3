@@ -67,7 +67,22 @@ int top(Stack stack){
 
 void addStringToStack(Stack pila,char array[]){
     for(int i=0;array[i]!='\0';i++){
+        if(array[i]=='{' || array[i]=='(' || array[i]=='[' )
         push(pila,array[i]);
+        else if(array[i]=='}' && top(pila)=='{'){
+            pop(pila);
+        }
+        else if(array[i]==')' && top(pila)=='('){
+            pop(pila);
+            printStack(pila);
+        }
+        else if(array[i]==']' && top(pila)=='['){
+            pop(pila);
+        }
     }
+    if(pila->top){
+        printf("Desdbalanceado");
+    } else
+        printf("Balanceado");
 
 }
