@@ -1,6 +1,21 @@
 # ninja log v5
 0	170	6915437236738690	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
-8	192	6915437237005356	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
-193	617	6915437240947254	asincrona3.exe	fab403e5663a80d6
 4	164	6915437641397144	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
 165	360	6915437643181971	asincrona3.exe	fab403e5663a80d6
+2	118	6917026022839090	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+7	129	6917026022966571	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
+13	159	6917026023276625	CMakeFiles/asincrona3.dir/binaryTrees.c.obj	c7c832f650a0198d
+159	297	6917026024597963	asincrona3.exe	d04a8fc7b26cfb8
+2	81	6917027014783672	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+82	185	6917027015780841	asincrona3.exe	d04a8fc7b26cfb8
+2	85	6917028527644966	CMakeFiles/asincrona3.dir/pila.c.obj	99c7f766b87db4f8
+85	180	6917028528532580	asincrona3.exe	d04a8fc7b26cfb8
+2	72	6917030774775316	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+72	167	6917030775662651	asincrona3.exe	d04a8fc7b26cfb8
+3	101	6917034731838209	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+9	129	6917034732124847	CMakeFiles/asincrona3.dir/binaryTrees.c.obj	c7c832f650a0198d
+129	229	6917034733088976	asincrona3.exe	d04a8fc7b26cfb8
+2	101	6917036017935702	CMakeFiles/asincrona3.dir/binaryTrees.c.obj	c7c832f650a0198d
+102	202	6917036018882309	asincrona3.exe	d04a8fc7b26cfb8
+3	87	6917036991891584	CMakeFiles/asincrona3.dir/main.c.obj	81f8281a71869551
+88	210	6917036993047150	asincrona3.exe	d04a8fc7b26cfb8

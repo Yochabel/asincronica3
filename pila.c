@@ -81,8 +81,8 @@ void addStringToStack(Stack pila,char array[]){
         }
     }
     if(pila->top){
-        printf("Desdbalanceado");
+        printf("\nDesdbalanceado");
     } else
-        printf("Balanceado");
+        printf("\nBalanceado");
 
 }

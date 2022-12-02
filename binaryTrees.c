@@ -75,6 +75,15 @@ void seekAndAddB(Node * node, int value){
      }
 
  }
+void preOrder(Node *current) {
+    if (current) {
+        printf("%d -> %d, %d \n", current->value,
+               current->left ? current->left->value : -1,
+               current->right ? current->right->value : -1);
+        preOrder(current->left);
+        preOrder(current->right);
+    }
+}
  void inorder(Node * node){
      if(node){
          inorder(node->left);
@@ -97,7 +106,7 @@ void printTree(tree t1){
          return;
      }
     printf("Preorder:\n");
-    preorden(t1->root);
+    preOrder(t1->root);
     //printf("\nInorder:\n");
     //inorder(t1->root);
     //printf("\nPosorder:\n");

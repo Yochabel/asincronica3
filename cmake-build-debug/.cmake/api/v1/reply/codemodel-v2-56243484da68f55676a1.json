@@ -45,12 +45,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/52332/CLionProjects/asincronica3/cmake-build-debug",
-		"source" : "C:/Users/52332/CLionProjects/asincronica3"
+		"build" : "C:/Users/Yochi/CLionProjects/asincrona3/cmake-build-debug",
+		"source" : "C:/Users/Yochi/CLionProjects/asincrona3"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

@@ -7,7 +7,7 @@
 
 int main() {
     printf("-------Ejercicionumberjuan---------\n");
-    char pila[]="{(a+b}*5-7}";
+    char pila[]="{[(a+b)}*5-7}";
     printf("%s\n",pila);
     Stack stack1 = createStack();
     addStringToStack(stack1,pila);
@@ -34,7 +34,7 @@ int main() {
     printf("%i",isBST(tree1));
 
     printf("\n-------Ejercicionumbertrii---------\n");
-
+    printTree(tree1);
     printf("\n");
     widthSerch(tree1);
 
