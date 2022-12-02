@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/asincrona3.dir/binaryTrees.c.obj"
+  "CMakeFiles/asincrona3.dir/binaryTrees.c.obj.d"
   "CMakeFiles/asincrona3.dir/main.c.obj"
   "CMakeFiles/asincrona3.dir/main.c.obj.d"
   "CMakeFiles/asincrona3.dir/pila.c.obj"

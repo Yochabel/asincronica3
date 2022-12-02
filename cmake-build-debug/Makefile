@@ -128,6 +128,30 @@ asincrona3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\asincrona3.dir\build.make CMakeFiles/asincrona3.dir/build
 .PHONY : asincrona3/fast
 
+binaryTrees.obj: binaryTrees.c.obj
+.PHONY : binaryTrees.obj
+
+# target to build an object file
+binaryTrees.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\asincrona3.dir\build.make CMakeFiles/asincrona3.dir/binaryTrees.c.obj
+.PHONY : binaryTrees.c.obj
+
+binaryTrees.i: binaryTrees.c.i
+.PHONY : binaryTrees.i
+
+# target to preprocess a source file
+binaryTrees.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\asincrona3.dir\build.make CMakeFiles/asincrona3.dir/binaryTrees.c.i
+.PHONY : binaryTrees.c.i
+
+binaryTrees.s: binaryTrees.c.s
+.PHONY : binaryTrees.s
+
+# target to generate assembly for a file
+binaryTrees.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\asincrona3.dir\build.make CMakeFiles/asincrona3.dir/binaryTrees.c.s
+.PHONY : binaryTrees.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -185,6 +209,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... asincrona3
+	@echo ... binaryTrees.obj
+	@echo ... binaryTrees.i
+	@echo ... binaryTrees.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

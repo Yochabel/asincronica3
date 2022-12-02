@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/52332/CLionProjects/asincronica3/binaryTrees.c">
+			<Option target="asincrona3"/>
+		</Unit>
+		<Unit filename="C:/Users/52332/CLionProjects/asincronica3/binaryTrees.h">
+			<Option target="asincrona3"/>
+		</Unit>
 		<Unit filename="C:/Users/52332/CLionProjects/asincronica3/main.c">
 			<Option target="asincrona3"/>
 		</Unit>
